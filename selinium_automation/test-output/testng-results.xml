@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-06T12:23:13 IST" name="Default suite" finished-at="2024-09-06T12:24:21 IST" duration-ms="68231">
+    <groups>
+    </groups>
+    <test started-at="2024-09-06T12:23:13 IST" name="Default test" finished-at="2024-09-06T12:24:21 IST" duration-ms="68231">
+      <class name="TestNGframes.dataproviderclass">
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:TestNGframes.dataproviderclass@663c9e7a]" started-at="2024-09-06T12:23:13 IST" name="test" data-provider="dp" finished-at="2024-09-06T12:23:50 IST" duration-ms="37149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mgr367952]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vygenaq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:TestNGframes.dataproviderclass@663c9e7a]" started-at="2024-09-06T12:23:50 IST" name="test" data-provider="dp" finished-at="2024-09-06T12:24:21 IST" duration-ms="30965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mgr367953]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bevYbYr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- TestNGframes.dataproviderclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
